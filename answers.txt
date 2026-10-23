@@ -1,0 +1,5 @@
+Q1: 383e7c87
+Q2: 3
+Q3: git fetch, because it can check what teammate push and don't change the local repo
+Q4: no, because it doesn't affect the history commits, it's still in the commit log
+Q5: git branch -d old-fix, git push origin --delete old-fix
